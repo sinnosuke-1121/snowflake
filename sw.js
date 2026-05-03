@@ -1,4 +1,4 @@
-const CACHE = 'snowpro-v2';
+const CACHE = 'snowpro-v3';
 const ASSETS = [
   './', './index.html', './bundle.js', './manifest.json',
   './icon-180.png', './icon-192.png', './icon-512.png',
